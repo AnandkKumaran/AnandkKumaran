@@ -17,8 +17,11 @@ Furthermore, I possess hands-on experience in implementing and customizing Odoo 
 
 - 🔭 I’m currently working on Participating public audit contest on codehawks.com 
 - 🌱 I’m currently learning Security Research and Smartcontract Audting 
-- 📫 How to reach me: anandk.vly@gmail.com 
+- 📫 How to reach me: anandk.vly@gmail.com
 
+## Portfolio
+* Co-Author and ex-instructor of this course <a href="https://learn.kba.ai/course/certified-hyperledger-fabric-developer/">Certified Hyperledger Fabric Developer</>
+* Co-Author of this course <a href="[https://learn.kba.ai/course/certified-hyperledger-fabric-developer/](https://learn.kba.ai/course/hyperledger-fabric-fundamentals/)">Hyperledger Fabric Fundamentals</>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anandkKumaran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anand-k-kumaran/)  
 

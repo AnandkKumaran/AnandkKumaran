@@ -19,7 +19,7 @@ Furthermore, I possess hands-on experience in implementing and customizing Odoo 
 
 - 🔭 I’m currently participating public audit contest on [CodeHawks](https://www.codehawks.com/profile/clk75injq0004l908x4ygb7bp)
 - 🌱 I’m currently learning Security Research and Smartcontract Audting
-- 💻 Quill CTF Writeup's are [Here](https://github.com/AnandkKumaran/QuillAcademy/blob/main/QuillCTFChallanges/README.md)
+- 💻 Quill Audit CTF Writeup's are [Here](https://github.com/AnandkKumaran/QuillAcademy/blob/main/QuillCTFChallanges/README.md)
 - 📫 How to reach me: anandk.vly@gmail.com
   
 ## Certificates and Acheivements

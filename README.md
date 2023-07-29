@@ -1,4 +1,14 @@
-### Hi there 👋
+### My Bio 👋
+
+I’m a Blockchain Engineer, with proven domain expertise in implementing, integrating and deploying blockchain related applications such as NFT Marketplaces, Defi applications, enterprise blockchain solutions, and crypto wallets. As a blockchain developer, I have created noncustodial mobile wallets for storing cryptocurrency and integrated more than 15 cryptocurrencies, including 10 ERC20 tokens. 
+
+My experience includes writing solidity contracts and deploying Defi applications and NFT marketplaces for various EVM chains.
+
+I have also worked on the Osmosis blockchain and customized the liquidity mining process. Also, I have experience configuring, monitoring, and mining Bitcoins using AntMiner S9 and What's Miners with Slush Pool
+
+As a research and development engineer at Kerala Blockchain Academy, I have developed and deployed enterprise blockchain solutions based on Hyperledger Fabric. As a trainer of Hyperledger Fabric, I have trained more than 300 students and professionals, including engineers from NPCI; I have also conducted FDP programs for various organizations. 
+
+I also have hands-on experience implementing and customizing Odoo and ERP applications for local and international SMEs. And, have Comprehensive knowledge of Python syntax with a demonstrated history of working with global teams and intercultural teams.
 
 <!--
 **AnandkKumaran/AnandkKumaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

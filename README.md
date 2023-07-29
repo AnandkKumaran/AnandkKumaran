@@ -19,6 +19,8 @@ Furthermore, I possess hands-on experience in implementing and customizing Odoo 
 - 🌱 I’m currently learning Security Research and Smartcontract Audting
 - 💻 Quill CTF Writeup's are [Here](https://github.com/AnandkKumaran/QuillAcademy/blob/main/QuillCTFChallanges/README.md)
 - 📫 How to reach me: anandk.vly@gmail.com
+- 📖 Dapp World profile is [Here](https://dapp-world.com/soul/@anandk)
+- 🐝 LearnWeb3 Profile is [Here](https://learnweb3.io/u/Anand%20K/)
 
 ## Portfolio
 * Co-Author and ex-instructor of <a href="https://learn.kba.ai/course/certified-hyperledger-fabric-developer/">Certified Hyperledger Fabric Developer</a> course

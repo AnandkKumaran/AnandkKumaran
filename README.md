@@ -10,6 +10,8 @@ During my tenure as a Research and Development Engineer at Kerala Blockchain Aca
 
 Furthermore, I possess hands-on experience in implementing and customizing Odoo and ERP applications for local and international SMEs. My proficiency in Python syntax is well-demonstrated through collaboration with global and intercultural teams. My diverse skillset and track record of successful projects make me a valuable asset to any blockchain-related endeavor.
 
+[Here is my resume](Anand_K_Blockchain_Engineer (1).pdf)
+
 ## Skills & Experience
 * SOLIDITY, ETHEREUM, WEB3, HYPERLEDGER FABRIC
 * JAVASCRIPT

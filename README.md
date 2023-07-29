@@ -10,7 +10,10 @@ During my tenure as a Research and Development Engineer at Kerala Blockchain Aca
 
 Furthermore, I possess hands-on experience in implementing and customizing Odoo and ERP applications for local and international SMEs. My proficiency in Python syntax is well-demonstrated through collaboration with global and intercultural teams. My diverse skillset and track record of successful projects make me a valuable asset to any blockchain-related endeavor.
 
-Skills: SOLIDITY / ETHEREUM / WEB3 / JAVASCRIPT / PYTHON
+## Skills & Experience
+* SOLIDITY, ETHEREUM, WEB3
+* JAVASCRIPT
+* PYTHON
 
 - 🔭 I’m currently working on Participating public audit contest on codehawks.com 
 - 🌱 I’m currently learning Security Research and Smartcontract Audting 

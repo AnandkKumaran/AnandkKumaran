@@ -23,7 +23,7 @@ Furthermore, I possess hands-on experience in implementing and customizing Odoo 
 * Co-Author and ex-instructor of <a href="https://learn.kba.ai/course/certified-hyperledger-fabric-developer/">Certified Hyperledger Fabric Developer</a> course
 * Co-Author of <a href="https://learn.kba.ai/course/hyperledger-fabric-fundamentals/">Hyperledger Fabric Fundamentals</a> course
 * As a Blockchain Enginner, Integrated 13+ crypto currencies in <a href="dbxbang.com">DBX Bang Wallaet</a>
-<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://github.com/AnandkKumaran/AnandkKumaran/blob/main/video6.gif)' height='240'></img>
+<img src='https://github.com/AnandkKumaran/AnandkKumaran/blob/main/video6.gif' width='250'/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anandkKumaran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anand-k-kumaran/)  
 

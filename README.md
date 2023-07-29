@@ -21,6 +21,10 @@ Furthermore, I possess hands-on experience in implementing and customizing Odoo 
 - 🌱 I’m currently learning Security Research and Smartcontract Audting
 - 💻 Quill CTF Writeup's are [Here](https://github.com/AnandkKumaran/QuillAcademy/blob/main/QuillCTFChallanges/README.md)
 - 📫 How to reach me: anandk.vly@gmail.com
+  
+## Certificates and Acheivements
+
+- 🥇 Hedera Hashgraph [Certified Hedera Hashgraph Developer (CHHD) Associate](https://github.com/AnandkKumaran/AnandkKumaran/blob/b40e29e4a7af316822b4baafc5fe3857ed643c19/Certificate-Associate-AK-2023-02-10.pdf)
 - 📖 Dapp World profile is [Here](https://dapp-world.com/soul/@anandk)
 - 🐝 LearnWeb3 Profile is [Here](https://learnweb3.io/u/Anand%20K/)
 

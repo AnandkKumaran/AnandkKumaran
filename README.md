@@ -35,14 +35,14 @@ Furthermore, I possess hands-on experience in implementing and customizing Odoo 
 * As a Blockchain Enginner, Integrated 13+ crypto currencies in [DBX Bang Wallet](dbxbang.com)
 <p><a href="dbxbang.com"><img src='https://github.com/AnandkKumaran/AnandkKumaran/blob/main/video6.gif' width='250' target="_blank" rel="noopener noreferrer"/></a></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anandkKumaran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anand-k-kumaran/)  
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anandkKumaran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anand-k-kumaran/)  -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandkKumaran)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anandkKumaran&show_icons=true)  
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=anandkKumaran&show_icons=true)  -->
 
-![GitHub metrics](https://metrics.lecoq.io/anandkKumaran)  
+<!--![GitHub metrics](https://metrics.lecoq.io/anandkKumaran)  -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=anandkKumaran)  
 
